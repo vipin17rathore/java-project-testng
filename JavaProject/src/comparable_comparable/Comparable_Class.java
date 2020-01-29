@@ -9,6 +9,7 @@ public class Comparable_Class implements Comparable<Comparable_Class> {
 		this.age = age;
 		this.name = name;
 	}
+	
 	@Override
 	public int compareTo(Comparable_Class o) {
 		if(age==o.age)
