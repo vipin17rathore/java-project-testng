@@ -3,7 +3,7 @@ package basic_program;
 public class Armstrong_No {
 
 	public static void main(String[] args) {
-		//456
+		//vipin
 		 int c=0,a,temp;  
 		    int n=153;//It is the number to check armstrong  
 		    temp=n;  
