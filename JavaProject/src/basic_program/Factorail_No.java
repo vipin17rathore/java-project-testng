@@ -1,7 +1,7 @@
 package basic_program;
 
 public class Factorail_No {
-
+	//vipin
 	public static void main(String args[]) {
 		int n=6	;
 		int sum=1;
